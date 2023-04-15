@@ -1,0 +1,22 @@
+{
+  "name": "MyLhassane",
+  "type": "personal",
+  "bio": "web developer And ...",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/MyLhassane",
+      "icon": "FaTwitter"
+    },
+
+    {
+
+      "name": "Follow me on Instagram",
+
+      "url": "https://www.instagram.com/MyLhassane/",
+
+      "icon": "FaInstagram"
+
+    }
+  ]
+}
